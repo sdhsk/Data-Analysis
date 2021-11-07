@@ -1,0 +1,6 @@
+周志华老师《机器学习》西瓜书??，配套笔记学习更省力：https://github.com/Sophia-11/Machine-Learning-Notes
+
+资料11：西瓜书的配套参考机器学习公式详解，南瓜书地址：https://github.com/datawhalechina/pumpkin-book
+
+
+https://github.com/Sophia-11/Machine-Learning-Notes

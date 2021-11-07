@@ -1,0 +1,10 @@
+目前很多公司的数据已经从业务库迁移到了Hive中，所以有些时候我们也可以直接通过hive在ods层进行数据的查询
+
+资料4：B站上面尚硅谷的Hive教程，资料地址：https://www.bilibili.com/video/BV1W4411B7cN?from=search&seid=14258581886020041832
+
+推荐指数：????
+
+当然还是更推荐官网，毕竟权威，英语不会也要多啃：https://cwiki.apache.org/confluence/display/Hive/LanguageManual
+
+https://mp.weixin.qq.com/s/tgblAe3aBSrQrLq1V2KJlg
+
